@@ -25,7 +25,7 @@
     
 ## 1. Add your name and github link in CB.md 
 
-## 2. Fork the repo and give your contribution. 
+## 2. Star and fork the repo and give your contribution. 
 
 ## 3. Create a pull request for the same.
 
