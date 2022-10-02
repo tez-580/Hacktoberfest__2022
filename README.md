@@ -23,19 +23,20 @@
 
 ## Instructions-
     
+## 1. Add your name and github link in CB.md 
 
-## 1. Pick up from the list of issues from the list of issues tagged hackoctoberfest in this repo.
+## 2. Pick up from the list of issues from the list of issues tagged hackoctoberfest in this repo.
 
-## 2. Fork the repo and give your contribution. 
+## 3. Fork the repo and give your contribution. 
 
-## 3. Create a pull request for the same.
+## 4. Create a pull request for the same.
 
-## 4. Wait for Pull Request to merge
+## 5. Wait for Pull Request to merge
 
-## 5. If the contribution follows the rules and regulations of hackoctoberfest it will be approved.
+## 6. If the contribution follows the rules and regulations of hackoctoberfest it will be approved.
 
 
-## What is acceepted?
+## What is accepted?
 
 ## Pretty much anything!
 ```py
