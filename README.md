@@ -2,7 +2,6 @@
 ![Hacktoberfest 2021](static/logo.png)
 
 
-## This project is perfect for your first pull request
 
 🗣 **Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2022 challenge and earn a limited edition T-shirt.**
 
@@ -21,11 +20,11 @@
 </div>
 
 
-## Instructions-
+# Instructions-
     
 ## 1. Add your name and github link in CB.md 
 
-## 2. Star and fork the repo and give your contribution. 
+## 2. Solve one or questions from the sheet given.
 
 ## 3. Create a pull request for the same.
 
@@ -33,10 +32,6 @@
 
 ## 5. If the contribution follows the rules and regulations of hackoctoberfest it will be approved.
 
-
-## What is accepted?
-
-## Pretty much anything related to programming.
 ```py
 '''
 always make more then 4 pull request
