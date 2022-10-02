@@ -26,7 +26,7 @@
 
 ## 1. Pick up from the list of issues from the list of issues tagged hackoctoberfest in this repo.
 
-## 2. Fork the repo, create a branch and give your contribution. 
+## 2. Fork the repo and give your contribution. 
 
 ## 3. Create a pull request for the same.
 
@@ -34,6 +34,10 @@
 
 ## 5. If the contribution follows the rules and regulations of hackoctoberfest it will be approved.
 
+
+## What is acceepted?
+
+## Pretty much anything!
 ```py
 '''
 always make more then 4 pull request
