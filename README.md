@@ -24,7 +24,7 @@
     
 ## 1. Add your name and github link in CB.md 
 
-## 2. Solve one or questions from [here](https://docs.google.com/spreadsheets/d/1VkqW_BHuqaKmk3T5r8tYWATwEu_h5i3A6qTTA1yz2z0/edit#gid=0).
+## 2. Pick up one or more unsolved problems from [here](https://docs.google.com/spreadsheets/d/1VkqW_BHuqaKmk3T5r8tYWATwEu_h5i3A6qTTA1yz2z0/edit#gid=0).
 
 ## 3. Create a pull request for the same.
 
