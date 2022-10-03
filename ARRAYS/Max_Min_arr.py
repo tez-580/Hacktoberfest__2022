@@ -1,3 +1,6 @@
+# This code is contributed by
+# karanS08(https://github.com/karanS08)
+
 class pair:
     def __init__(self):
         self.min = 0
@@ -37,5 +40,4 @@ if __name__ == "__main__":
     print("Minimum element is", minmax.min)
     print("Maximum element is", minmax.max)
  
-# This code is contributed by
-# karanS08
+
