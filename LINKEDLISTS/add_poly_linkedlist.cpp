@@ -1,3 +1,5 @@
+// Contibuted by kiranmayek (www.github.com/kiranmayek)
+
 #include<bits/stdc++.h>
 using namespace std;
 struct Node{
@@ -48,7 +50,7 @@ void removeDuplicates(Node* start)
         // with rest of the elements
         while (ptr2->next != NULL) {
   
-            // If powerer of two elements are same
+            // If power of two elements are same
             if (ptr1->pow== ptr2->next->pow) {
   
                 // Add their coefficients and put it in 1st element
