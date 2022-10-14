@@ -12,3 +12,4 @@
 |Arzit Mahajan |https://github.com/arzitmahajan| Chandigarh
 |Debashish| https://github.com/debanath| Chandigarh
 |shivendu| https://github.com/shivenducs1136 | Chandigarh
+| Sneha Jaiswal | https://github.com/Sneha-jais | Delhi
