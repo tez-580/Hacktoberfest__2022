@@ -22,7 +22,7 @@
 
 # Instructions-
     
-## 1. Add your name and github link in CB.md 
+## 1. Add your name and github link in CONTRIBUTION.md 
 
 ## 2. Pick up one or more unsolved problems from [here](https://docs.google.com/spreadsheets/d/1VkqW_BHuqaKmk3T5r8tYWATwEu_h5i3A6qTTA1yz2z0/edit#gid=0).
 
@@ -54,4 +54,5 @@ To get approval of the pull request much quick 🚀
 <tr><td align="center"><a href="https://github.com/H9660"><kbd><img src="https://avatars3.githubusercontent.com/H9660?size=100" width="100px;" alt=""/></kbd><br /><sub><b>Hussain Lohawala <Lohawala></Lohawala></b></sub></a><br /></td>
 
 </tr>
+
 

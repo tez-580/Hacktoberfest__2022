@@ -1,0 +1,85 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+struct node 
+{
+    int data;
+    struct node *leftchild;
+    struct node *rightchild;
+};
+
+node *root = NULL;
+
+void insert(int data)
+{
+    struct node *tempnode = (struct node*)malloc(sizeof(struct node));
+    struct node *current;
+    struct node *parent;
+
+    tempnode->data = data;
+    tempnode->leftchild = NULL;
+    tempnode->rightchild = NULL;
+
+    if(root == NULL)
+    {
+        root = tempnode;
+    }
+    else
+    {
+        current = root;
+        parent = NULL;
+
+        while(1)
+        {
+            parent = current;
+
+            if(data < parent->data)
+            {
+                current = current->leftchild;
+
+                if(current == NULL)
+                {
+                    parent->leftchild = tempnode;
+                    return;
+                }
+            }
+            else
+            {
+                current = current->rightchild;
+
+                if(current == NULL)
+                {
+                    parent->rightchild = tempnode;
+                    return;
+                }
+            }
+        }
+    }
+}
+
+void inorder(struct node *t)
+{
+    if(t!=NULL)
+    {
+        inorder(t->leftchild);
+        cout<<t->data<<" ";
+        inorder(t->rightchild);
+    }
+}
+
+int main()
+{
+    int n, x;
+    cout<<"Enter the number of elements : ";
+    cin>>n;
+    for(int i=0;i<n;i++)
+    {
+        cin>>x;
+        insert(x);
+    }
+    cout<<"Enter the number to add it to the tree : ";
+    cin>>x;
+    insert(x);
+ 
+    inorder(root);
+}
